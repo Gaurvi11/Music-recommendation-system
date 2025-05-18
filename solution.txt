@@ -1,3 +1,4 @@
 music recommendation system is a python based program which helps you find songs based on the input you have given.
 
+it uses machine learning libraries and AWS to host.
 
